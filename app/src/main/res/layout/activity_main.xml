@@ -16,4 +16,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+
+<!-- Test Crash Button -->
+<!--    <Button-->
+<!--        android:id="@+id/testCrashButton"-->
+<!--        android:text="Test Crash"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:backgroundTint="#00C896"-->
+<!--        android:textColor="#0D1B2A" />-->
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>
