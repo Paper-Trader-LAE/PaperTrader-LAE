@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462947068073",
+    "project_id": "papertrader-lae",
+    "storage_bucket": "papertrader-lae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462947068073:android:a2796381cf292c8c6061b8",
+        "android_client_info": {
+          "package_name": "com.example.papertraderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkaLZD6MmpWdlDS4ashexLmlK4aEnNlyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
